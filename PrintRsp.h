@@ -2,7 +2,7 @@
  * PrintRsp.h
  *
  *  Created on: Feb 6, 2014
- *      Author: bjchoe
+ *      Author: kucho
  */
 #include <opencv2/core/core.hpp>
 #include <opencv2/highgui/highgui.hpp>
